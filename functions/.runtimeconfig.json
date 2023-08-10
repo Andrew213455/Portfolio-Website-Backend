@@ -1,0 +1,5 @@
+{
+  "mongodb": {
+    "uri": "mongodb+srv://woodringandrew:redbull@cluster0.hqbvu9r.mongodb.net/shoutouts_db?retryWrites=true&w=majority"
+  }
+}
